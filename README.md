@@ -1,7 +1,3 @@
-Perfeito! Segue um exemplo de README mais completo e estruturado para o seu Projeto Imobiliário. Você pode copiar, adaptar e preencher com mais detalhes específicos do seu projeto:
-
----
-
 # Projeto-Imobiliário
 
 Projeto desenvolvido por mim, Lucas, ao longo da minha carreira.
